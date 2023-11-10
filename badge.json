@@ -1,4 +1,5 @@
 {
   "assessment": "building",
-  "color": "green"
+  "color": "green",
+  "labelColor": "green"
 }
