@@ -1,5 +1,5 @@
 {
-  "name": "SQAaaS",
-  "query": "building",
+  "label": "SQAaaS",
+  "assessment": "building",
   "color": "green"
 }
