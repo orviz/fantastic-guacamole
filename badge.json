@@ -2,7 +2,7 @@
     "meta": {
         "version": "2.9.3",
         "report_json_url": "https://raw.githubusercontent.com/eosc-synergy/itwinai.assess.sqaaas/main/.report/assessment_output.json",
-        "assessment_result": "building"
+        "assessment_result": "running"
     },
     "repository": [
         {
