@@ -1,5 +1,5 @@
 {
-  "assessment": "building",
-  "color": "green",
-  "labelColor": "green"
+  "meta": {
+    "assessment": "building"
+  }
 }
