@@ -1,1 +1,1 @@
-{ "schemaVersion": 1, "label": "hello", "message": "sweet world", "color": "blue" }
+{ "schemaVersion": 1, "label": "hello", "message": "sweet world", "color": "blue", "some_random_key": "some random value" }
